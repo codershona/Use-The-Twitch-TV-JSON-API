@@ -1,14 +1,22 @@
 import React from 'react';
  // import ReactDOM from "react-dom";
+ import Games from './components/Games';
+ import "./styles.css";
 
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
+
+import "bootstrap/dist/css/bootstrap.min.css";
+import "shards-ui/dist/css/shards.min.css";
 
 function App() {
   return (
   	<Router>
-    <div className="App">
-      <h2>hello world</h2>
-    </div>
+    
+
+
+
+
+    <Route exact path='/' component={Games} />
 
     </Router>
 
