@@ -12,15 +12,13 @@ import "shards-ui/dist/css/shards.min.css";
 
 function App() {
   return (
-  	<Router>
-    
-     <Header />
-
-
-
-    <Route exact path='/' component={Games} />
-    <Route exact path='/top-streams' component={Stream} />
-
+  	   <Router>
+      <div className="App container-fluid">
+        <Header />
+        <Route exact path="/" component={Games} />
+        <Route exact path="/top-streams" component={Stream} />
+        
+      </div>
     </Router>
 
 
