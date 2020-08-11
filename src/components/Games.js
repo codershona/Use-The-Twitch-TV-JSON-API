@@ -7,8 +7,8 @@ function Games() {
 
 	useEffect(() => {
 		const fetchData = async () => {
-		const result = await api.get('https://api.twitch.tv/helix/games/top')
-		console.log(result.data)
+		const result = await api.get("https://api.twitch.tv/helix/games/top")
+		// console.log(result.data);
 
 	};
 
