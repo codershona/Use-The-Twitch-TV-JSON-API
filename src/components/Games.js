@@ -29,7 +29,7 @@ function Games() {
   }, []);
   return (
     <div>
-      <h1>Most Popular Games</h1>
+      <h1 className="head">RECENT POPULAR TWITCH TV GAMES</h1>
       <div className="row">
         {games.map(game => (
           <div className="col-lg-4 col-md-6 col-sm-12 mt-5">

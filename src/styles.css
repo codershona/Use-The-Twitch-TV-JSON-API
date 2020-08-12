@@ -1,6 +1,21 @@
 .App {
 	font-family: sans-serif;
 	text-align: center;
+
+
+}
+
+.nav1 {
+
+	color: #fff;
+	font-size: 19px;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+.head {
+	margin-top: 10px;
 }
 
 

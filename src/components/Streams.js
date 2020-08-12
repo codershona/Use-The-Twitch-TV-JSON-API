@@ -42,7 +42,7 @@ function Stream() {
   }, []);
   return (
     <div>
-      <h1>Most Popular Live Streams</h1>
+      <h1 className="head">RECENT POPULAR TWITCH LIVE STREAMS</h1>
       <div className="row">
         {channels.map(channel => (
           <div className="col-lg-4 col-md-6 col-sm-12 mt-5">
