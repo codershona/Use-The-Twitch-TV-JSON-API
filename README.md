@@ -7,7 +7,7 @@
 	
 <img src="https://user-images.githubusercontent.com/57604500/121777420-3b91b280-cb92-11eb-8a15-ba561ac43272.png" width=1056>
 <br />
-<h3 align="center">CHAT APP</h3>
+<h3 align="center">Twitch TV JSON API</h3>
 </p>
  
  * NOTES :
