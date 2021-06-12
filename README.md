@@ -3,6 +3,12 @@
 
 #### Project Can be found in here :
  **[Live version](https://twitch-tv-json-api.web.app/)**
+<p align="center">
+	
+<img src="https://user-images.githubusercontent.com/57604500/121777420-3b91b280-cb92-11eb-8a15-ba561ac43272.png" width=1056>
+<br />
+<h3 align="center">CHAT APP</h3>
+</p>
  
  * NOTES :
  
